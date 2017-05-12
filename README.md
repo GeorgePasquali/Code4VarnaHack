@@ -1,2 +1,2 @@
 # Code4VarnaHack
-First hack teamwork unicorn
+First hack teamwork unicorn. Worst code ever..
